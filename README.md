@@ -91,4 +91,4 @@ endmodule
 ![xy](https://github.com/Priyangarajapandiyan/HALF_ADDER_SUBTRACTOR/assets/144872535/f199cbe8-c696-4a78-b8b3-275d73db610c)
 
 **Result:**
-thus the half subracter and half adder circuits are design and the truth tables are verified using quartus softeare
+thus the half subracter and half adder circuits are design and the truth tables are verified using quartus software
