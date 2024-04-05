@@ -37,7 +37,7 @@ Figure -02 HALF Subtractor
 ## half adder
 ![half adder](https://github.com/Priyangarajapandiyan/HALF_ADDER_SUBTRACTOR/assets/144872535/05df41ae-d18e-4e4a-9348-3defd50fbb8b)
 
-## half subracter
+## half subractor
 ![half subracter](https://github.com/Priyangarajapandiyan/HALF_ADDER_SUBTRACTOR/assets/144872535/225fbf49-b177-414f-8cc6-e879a3cfb815)
 
 
@@ -69,7 +69,7 @@ xor sum1(sum,a,b);
 and carry1(carry,a,b); 
 endmodule
 ```
-## half subracter
+## half subractor
 module exp3(diff,carry,a,b);
 input a,b;
 output diff,carry;
@@ -87,7 +87,7 @@ endmodule
 ## hald adder:
 ![sum carry](https://github.com/Priyangarajapandiyan/HALF_ADDER_SUBTRACTOR/assets/144872535/e055e266-a584-4cb9-9ff5-4ee2535f6692)
 
-## half subracter 
+## half subractor 
 ![xy](https://github.com/Priyangarajapandiyan/HALF_ADDER_SUBTRACTOR/assets/144872535/f199cbe8-c696-4a78-b8b3-275d73db610c)
 
 **Result:**
